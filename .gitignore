@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# PyTorch / ML
+*.pt
+*.ckpt
+
+# cache files
+*.npy
+*.npz
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/
+
+# Dataset 
+McGill-Billboard/
+
+
